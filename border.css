@@ -5,6 +5,7 @@
 .white{
   border:solid 1px #ccc;
   padding:15px ;
+  border-radius:3px;
 }
 .pink{
   background:#ffe7e7;
